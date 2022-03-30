@@ -101,16 +101,16 @@ const Footer = () => {
                 <Left>
                     <Logo/>
                     <IconList>
-                        <a href="http://facebook.com" target="_blank" rel='noopener'>
+                        <a href="http://facebook.com" target="_blank" rel="noreferrer">
                             <Facebook/>
                         </a>
-                        <a href="http://instagram.com" target="_blank" rel='noopener'>
+                        <a href="http://instagram.com" target="_blank" rel="noreferrer">
                             <Instagram/>
                         </a>
-                        <a href="http://twitter.com" target="_blank" rel='noopener'>
+                        <a href="http://twitter.com" target="_blank" rel="noreferrer">
                             <Twitter/>
                         </a>
-                        <a href="http://linkedin.com" target="_blank" rel='noopener'>
+                        <a href="http://linkedin.com" target="_blank" rel="noreferrer"'>
                             <LinkedIn/>
                         </a>
                     </IconList>
@@ -130,7 +130,7 @@ const Footer = () => {
                     &copy;{new Date().getFullYear()} Weirdos Club All rights reserved
                 </span>
                 <span>
-                    Made with &#10084; by <a href="https://github.com/Danielyan-Hovo" target='_blank'>
+                    Made with &#10084; by <a href="https://github.com/Danielyan-Hovo" target='_blank' rel="noreferrer">
                     Danielyan Hovhannes
                 </a>
                 </span>
