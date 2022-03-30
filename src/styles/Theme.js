@@ -1,5 +1,4 @@
-import "@fontsource/akaya-telivigala";
-import "@fontsource/sora";
+
 export const light = {
 
     body:"#fff",
