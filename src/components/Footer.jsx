@@ -130,7 +130,7 @@ const Footer = () => {
                     &copy;{new Date().getFullYear()} Weirdos Club All rights reserved
                 </span>
                 <span>
-                    Made with &#10084; by <a href="https://github.com/Danielyan-Hovo" target='_blank' rel="noreferrer">
+                    Made with &#10084; by <a href="https://github.com/Danielyan-Hovo" target='_blank'>
                     Danielyan Hovhannes
                 </a>
                 </span>
