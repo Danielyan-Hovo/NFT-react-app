@@ -7,7 +7,6 @@ import img3 from '../assets/Nfts/bighead-2.svg';
 import img4 from '../assets/Nfts/bighead-3.svg';
 import img5 from '../assets/Nfts/bighead-4.svg';
 import img6 from '../assets/Nfts/bighead-5.svg';
-import Button from "./Button";
 
 const Section = styled.section`
   width: 100vw;
