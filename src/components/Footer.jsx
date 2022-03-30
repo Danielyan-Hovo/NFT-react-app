@@ -110,7 +110,7 @@ const Footer = () => {
                         <a href="http://twitter.com" target="_blank" rel="noreferrer">
                             <Twitter/>
                         </a>
-                        <a href="http://linkedin.com" target="_blank" rel="noreferrer"'>
+                        <a href="http://linkedin.com" target="_blank" rel="noreferrer">
                             <LinkedIn/>
                         </a>
                     </IconList>
