@@ -21,4 +21,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-/src/styles/Themes.js
+/src/styles/Theme.js
